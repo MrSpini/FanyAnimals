@@ -25,9 +25,9 @@ public class SelectCollection : MonoBehaviour {
 			}
 			 else 
 			{
-				imag[i].GetComponent<Image> ().color = new Color32 (161, 153, 153, 155);
+				imag[i].GetComponent<Image> ().color = new Color32 (255, 255, 255, 100);
 				imag [i].GetComponent<BoxCollider2D> ().size = new Vector2(0,0);
-				Collection.GetComponent<Image> ().color = new Color32 (161, 153, 153, 155);
+				Collection.GetComponent<Image> ().color = new Color32 (255, 255, 255, 100);
 			}
 		}
 	}

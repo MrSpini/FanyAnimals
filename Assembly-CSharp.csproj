@@ -49,6 +49,8 @@
      <Compile Include="Assets\Scripts\CloseMassegPanel.cs" />
      <Compile Include="Assets\Scripts\SelectCollection.cs" />
      <Compile Include="Assets\Scripts\SelectItem.cs" />
+     <Compile Include="Assets\Scripts\Settings.cs" />
+     <Compile Include="Assets\Scripts\Swithc.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
